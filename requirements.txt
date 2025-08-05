@@ -1,0 +1,16 @@
+SpeechRecognition
+pyttsx3
+python-dateutil
+pywhatkit
+wikipedia
+psutil
+pyjokes
+pyautogui
+requests
+speedtest-cli
+google-generativeai
+python-dotenv
+
+Install all dependencies:
+
+pip install -r requirements.txt
